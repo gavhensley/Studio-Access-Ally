@@ -9,7 +9,7 @@ Thank you for checking out our studio management app. To view the app, you can e
 2. Change the directory to Studio-Access-Ally/backend/Studio-Inventory-API and open the .sln file in Visual Studio 
 3. This project uses Entity Framework Core, so in the menus, go to Tools > NuGet Package Manager > Package Manager Console and run the command update-database
 4. Now you can run the API by clicking the ► IIS Express button at the top of the window. This will open the API in a browser window, and you will see some JSON data (EquipmentList in the URL). Feel free to minimize this window, but don't close the window.
-5. Next, in the command line, change the directory to "frontend"
+5. Next, in the command line, change the directory to Studio-Access-Ally/frontend
       * Run the following command
         ```
         npm install webpack webpack-dev-server webpack-cli --save-dev
