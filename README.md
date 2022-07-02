@@ -7,7 +7,7 @@ Thank you for checking out our studio management app. To view the app, you can e
 1. Clone down the repository
 2. In the command line, change the directory to "frontend"
       * Run the following line of code
-       ```
+        ```
         npm install webpack webpack-dev-server webpack-cli --save-dev
         ```
 3. 
