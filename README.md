@@ -3,7 +3,7 @@
 ## Studio inventory management  
 
 ### Intro/Setup
-Thank you for checking out our studio management app. To view the app, you can either <a href="https://www.youtube.com/watch?v=G5pu3HzPXZA" target="_blank">check out our presentation here</a>, or follow these instructions. (Note: You must have Visual Studio Community, Microsoft SQL Server Management Studio 18, Visual Studio Code and Node.JS installed)  
+Thank you for checking out our studio management app. This app allows a studio to add their equipment, allows user to submit rental forms, and admins to accept or deny those rental forms. To view the app, you can either <a href="https://www.youtube.com/watch?v=G5pu3HzPXZA" target="_blank">check out our presentation here</a>, or follow these instructions. (Note: You must have Visual Studio Community, Microsoft SQL Server Management Studio 18, Visual Studio Code and Node.JS installed)  
 
 1. Clone down the repository
 2. Change the directory to Studio-Access-Ally/backend/Studio-Inventory-API and open the .sln file in Visual Studio 
