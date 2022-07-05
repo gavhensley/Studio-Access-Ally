@@ -17,3 +17,9 @@ Thank you for checking out our studio management app. To view the app, you can e
 3. Now run the command `npm start` to start up the application.
 
 ### What you can do:
+- See a list of equipment and categories
+     - Create, read, update, and delete for each of these (based on type of account)
+- Admin vs User Logins (WARNING: NOT SECURE. THE PASSWORDS AT THIS TIME ARE NOT ENCRYPTED AND EASILY ACEESSIBLE)
+- Rent forms for equipment. While that equipment is out and being used, it is removed from the available list
+     - Admin approval of forms is needed in order to update the equipment list
+- About us page for the studio using this app as a template (must be updated in code)
